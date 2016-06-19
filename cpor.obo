@@ -1,0 +1,22 @@
+format-version: 1.2
+date: 19:06:2016 14:23
+saved-by: ame
+default-namespace: cavy_stages_ontology
+subsetdef: granular_stage "Subset consisting of classes describing highly granular developmental stages (for instance, '23-year-old'). Such stages might be useful for annotation purpose, but might be folded into less granular parents for display purpose."
+ontology: cpordv
+
+[Term]
+id: CporDv:0000000
+name: cavy life cycle stage
+def: "A spatiotemporal region encompassing some part of the life cycle of an organism." [UBERON:0000105]
+synonym: "developmental stage" EXACT []
+synonym: "stage" NARROW []
+xref: UBERON:0000105
+
+[Term]
+id: CporDv:0000001
+name: cavy life cycle
+namespace: cavy_developmental_stage
+def: "Temporal interval that defines cavy life from the prenatal stage until late adult stage." [Bgee:curator "Bgee"]
+xref: UBERON:0000104
+is_a: CporDv:0000000 ! cavy life cycle stage
