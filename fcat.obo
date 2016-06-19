@@ -25,7 +25,7 @@ is_a: FcatDv:0000000 ! cat life cycle stage
 id: FcatDv:0000002
 name: adulthood stage
 namespace: cat_developmental_stage
-def: "Mature stage that refers to a adult dog which is over 1 year, lower bound of adulthood, and under 10 years, lower bound of senior age." [Bgee:curator "Bgee"]
+def: "Mature stage that refers to a adult cat which is over 1 year, lower bound of adulthood, and under 10 years, lower bound of senior age." [Bgee:curator "Bgee"]
 comment: Note that adulthood in dogs is very heterogenous, depending on factors such as the size and/or the breed. Ref: http://icatcare.org/advice/life-stages
 synonym: "prime adult stage" EXACT []
 xref: UBERON:0018241
