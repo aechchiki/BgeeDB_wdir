@@ -32,7 +32,7 @@ xref: UBERON:0018241
 is_a: ClupDv:0000000 ! dog life cycle stage
 relationship: part_of ClupDv:0000001 ! dog life cycle
 property_value: start_mph "12.0" xsd:float
-property_value: end_mph "172.0" xsd:float
+property_value: end_mph "72.0" xsd:float
 
 [Typedef]
 id: part_of
