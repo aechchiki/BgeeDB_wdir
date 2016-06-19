@@ -32,7 +32,7 @@ xref: UBERON:0018241
 is_a: EeurDv:0000000 ! hedgehog life cycle stage
 relationship: part_of EeurDv:0000001 ! hedgehog life cycle
 property_value: start_mph "9.0" xsd:float
-property_value: end_mph "45.0" xsd:float
+property_value: end_mph "160.0" xsd:float
 
 [Typedef]
 id: part_of
