@@ -83,7 +83,7 @@ xref: UBERON:0007222
 is_a: EeurDv:0000000 ! hedgehog life cycle stage
 relationship: part_of EeurDv:0000004 ! mature stage
 relationship: immediately_preceded_by EeurDv:0000005 ! adulthood stage
-property_value: start_mpb "24.0" xsd:float
+property_value: start_mpb "60.0" xsd:float
 
 [Typedef]
 id: part_of
