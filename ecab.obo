@@ -78,7 +78,7 @@ id: EcabDv:0000006
 name: aged stage
 namespace: horse_developmental_stage
 def: "Mature stage that refers to a adult horse which is over 20 years." [Bgee:curator "Bgee"]
-comment: There is little information on the longevity of horses. They can live up to 12 years in captivity (http://genomics.senescence.info/species/entry.php?species=Equus_caballus).
+comment: There is little information on the longevity of horses. They can live up to 57 years in captivity (http://genomics.senescence.info/species/entry.php?species=Equus_caballus).
 xref: UBERON:0007222
 is_a: EcabDv:0000000 ! horse life cycle stage
 relationship: part_of EcabDv:0000004 ! mature stage
