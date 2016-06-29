@@ -52,7 +52,7 @@ id: OcunDv:0000004
 name: mature stage
 namespace: rabbit_developmental_stage
 synonym: "mature" EXACT []
-def: "rabbit developmental stage that refers to a sexually mature adult rabbit, which is over about 730 days old." [Bgee:curator "Bgee"]
+def: "rabbit developmental stage that refers to a sexually mature adult rabbit, which is over about 2 years old." [Bgee:curator "Bgee"]
 comment: (http://genomics.senescence.info/species/entry.php?species=Oryctolagus_cuninculus).
 xref: UBERON:0000113
 is_a: OcunDv:0000000 ! rabbit life cycle stage
